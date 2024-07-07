@@ -10,7 +10,7 @@ I'm looking to collaborate on open source projects related to Python, machine le
 
 I need help with Python and its modules.
 
-email: miranda.jonathan@outlook.com
+Email: miranda.jonathan@outlook.com
 Lindkedin: mirandajonathan
       
 Fun fact: I have a degree in nursing technician.
