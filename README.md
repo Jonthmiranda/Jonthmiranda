@@ -2,8 +2,7 @@
 
 # Hello, I'm Jonathan
 
-
-I'm studying information systems at UDESC Midwest.
+I'm studying information systems at UDESC.
 
 I'm currently learning Python and the different tools it offers.
 
