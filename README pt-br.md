@@ -1,4 +1,4 @@
-Português | [English]()
+Português | [English](https://github.com/Jonthmiranda/Jonthmiranda/blob/main/README.md)
 
 # Olá, eu sou Jonathan
 
