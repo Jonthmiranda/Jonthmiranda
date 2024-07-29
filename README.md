@@ -18,4 +18,4 @@ Fun fact: I have a degree in nursing technician.
 
 ## Languages ​​and Tools
 
-Python; Vscode;
+Python; Vscode; C;
