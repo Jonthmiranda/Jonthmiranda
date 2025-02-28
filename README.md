@@ -2,20 +2,20 @@
 
 # Hello, I'm Jonathan
 
-I'm studying information systems at UDESC.
+I'm a studant at UDESC.
 
-I'm currently learning Python and the different tools it offers.
+3 years of freelancer work.
 
-I'm looking to collaborate on open source projects related to Python, machine learning, and AI.
+Python and C programmer.
 
-I need help with Python and its modules.
+Data science enthusiast and all that it encompasses.
 
-Email: miranda.jonathan@outlook.com
-Lindkedin: mirandajonathan
+contact:
+      Lindkedin: mirandajonathan
       
-Fun fact: I have a degree in nursing technician.
+I'm a nursing technician, I accept collaborations using AI and healthcare, I can be of great help.
 
 
 ## Languages ​​and Tools
 
-Python; Vscode; C;
+Python; C; mySQL.
