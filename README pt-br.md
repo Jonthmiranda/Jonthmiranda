@@ -2,21 +2,18 @@ Português | [English](https://github.com/Jonthmiranda/Jonthmiranda/blob/main/RE
 
 # Olá, eu sou Jonathan
 
-Estou estudando sistemas da informação na UDESC meio oeste.
+Sou estudante na UDESC.
 
-Atualmente estou aprendendo Python e as diversas ferramentas que ele oferece.
+3 anos de trabalho como freelancer.
 
-Estou procurando colaborar em projetos código aberto relacionados a Python, aprendizado de máquina e IA.
+Programador em Python e C.
 
-Preciso de ajuda com Python e seus modulos.
+Entusiasta de ciência de dados e tudo o que engloba.
 
-Email: miranda.jonathan@outlook.com
-Lindkedin: mirandajonathan
-      
-Fato divertido: Sou formado em técnico de enfermagem.
-
+Sou técnico de enfermagem, aceito colaborações usando IA e saúde, posso ser de grande ajuda.
 
 ## Linguagens e Ferramentas
 
-Python; C; Vscode; 
+Python; C; mySQL.
 
+### LinkedIn: mirandajonathan
