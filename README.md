@@ -10,8 +10,7 @@ Python and C programmer.
 
 Data science enthusiast and all that it encompasses.
 
-contact:
-      Lindkedin: mirandajonathan
+Lindkedin: mirandajonathan
       
 I'm a nursing technician, I accept collaborations using AI and healthcare, I can be of great help.
 
