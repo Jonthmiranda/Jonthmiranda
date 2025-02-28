@@ -16,4 +16,4 @@ Sou técnico de enfermagem, aceito colaborações usando IA e saúde, posso ser 
 
 Python; C; mySQL.
 
-##### LinkedIn: mirandajonathan
+##### linkedin.com/in/mirandajonathan
