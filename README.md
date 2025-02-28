@@ -16,5 +16,5 @@ I'm a nursing technician, I accept collaborations using AI and healthcare, I can
 
 Python; C; mySQL.
 
-##### [Linkedin: mirandajonathan](linkedin.com/in/mirandajonathan)
+##### linkedin.com/in/mirandajonathan
  
