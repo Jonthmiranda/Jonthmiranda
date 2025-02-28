@@ -9,12 +9,11 @@ I'm a studant at UDESC.
 Python and C programmer.
 
 Data science enthusiast and all that it encompasses.
-
-Lindkedin: mirandajonathan
       
 I'm a nursing technician, I accept collaborations using AI and healthcare, I can be of great help.
-
 
 ## Languages ​​and Tools
 
 Python; C; mySQL.
+
+##### Lindkedin: mirandajonathan
