@@ -12,6 +12,6 @@ Sou técnico de enfermagem, aceito colaborações usando IA e saúde, posso ser 
 
 Python; C; mySQL.
 
-Matplot; Selenium; Pyautogui; 
+Matplot; Selenium; Pyautogui; Sklearn; Numpy 
 
 ##### linkedin.com/in/mirandajonathan
