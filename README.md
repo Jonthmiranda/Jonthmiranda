@@ -1,20 +1,17 @@
-[Português](https://github.com/Jonthmiranda/Jonthmiranda/blob/main/README%20pt-br.md) | English
+# Olá, eu sou Jonathan
 
-# Hello, I'm Jonathan
+3 anos de trabalho como freelancer.
 
-I'm a studant at UDESC.
+Programador em Python e C.
 
-3 years of freelancer work.
+Entusiasta de ciência de dados e tudo o que engloba.
 
-Python and C programmer.
+Sou técnico de enfermagem, aceito colaborações usando IA e saúde, posso ser de grande ajuda.
 
-Data science enthusiast and all that it encompasses.
-      
-I'm a nursing technician, I accept collaborations using AI and healthcare, I can be of great help.
-
-## Languages ​​and Tools
+## Linguagens e Ferramentas
 
 Python; C; mySQL.
 
+Matplot; Selenium; Pyautogui; 
+
 ##### linkedin.com/in/mirandajonathan
- 
