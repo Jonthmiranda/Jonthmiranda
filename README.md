@@ -2,7 +2,7 @@
 
 3 anos de trabalho como freelancer.
 
-Programador em Python e C.
+Desenvolvedor Python e C.
 
 Entusiasta de ciência de dados e tudo o que engloba.
 
@@ -12,6 +12,6 @@ Sou técnico de enfermagem, aceito colaborações usando IA e saúde, posso ser 
 
 Python; C; mySQL.
 
-Matplot; Selenium; Pyautogui; Sklearn; Numpy 
+Matplot; Selenium; Pyautogui; Sklearn; Numpy; Django
 
 ##### linkedin.com/in/mirandajonathan
