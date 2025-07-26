@@ -10,7 +10,7 @@ Sou técnico de enfermagem, aceito colaborações usando IA e saúde, posso ser 
 
 ## Linguagens e Ferramentas
 
-Python; C; mySQL.
+Python; C; mySQL; JavaScript.
 
 Matplot; Selenium; Pyautogui; Sklearn; Numpy; Django
 
