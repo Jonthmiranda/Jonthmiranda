@@ -2,7 +2,7 @@
 
 3 anos de trabalho como freelancer.
 
-Desenvolvedor Python e C.
+Desenvolvedor FullStack
 
 Entusiasta de ciência de dados e tudo o que engloba.
 
